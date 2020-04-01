@@ -1,0 +1,14 @@
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_consumer\bin\Debug\netcoreapp3.1\SQS_consumer.exe
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_consumer\obj\Debug\netcoreapp3.1\SQS_consumer.csprojAssemblyReference.cache
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_consumer\obj\Debug\netcoreapp3.1\SQS_consumer.AssemblyInfoInputs.cache
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_consumer\obj\Debug\netcoreapp3.1\SQS_consumer.AssemblyInfo.cs
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_consumer\bin\Debug\netcoreapp3.1\SQS_consumer.deps.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_consumer\bin\Debug\netcoreapp3.1\SQS_consumer.runtimeconfig.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_consumer\bin\Debug\netcoreapp3.1\SQS_consumer.runtimeconfig.dev.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_consumer\bin\Debug\netcoreapp3.1\SQS_consumer.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_consumer\bin\Debug\netcoreapp3.1\SQS_consumer.pdb
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_consumer\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_consumer\bin\Debug\netcoreapp3.1\AWSSDK.SQS.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_consumer\obj\Debug\netcoreapp3.1\SQS_consumer.csproj.CopyComplete
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_consumer\obj\Debug\netcoreapp3.1\SQS_consumer.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_consumer\obj\Debug\netcoreapp3.1\SQS_consumer.pdb

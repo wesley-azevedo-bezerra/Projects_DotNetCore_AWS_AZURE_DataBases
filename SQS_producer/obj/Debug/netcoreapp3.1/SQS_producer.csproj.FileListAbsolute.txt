@@ -1,0 +1,14 @@
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_producer\bin\Debug\netcoreapp3.1\SQS_producer.exe
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_producer\obj\Debug\netcoreapp3.1\SQS_producer.csprojAssemblyReference.cache
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_producer\obj\Debug\netcoreapp3.1\SQS_producer.AssemblyInfoInputs.cache
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_producer\obj\Debug\netcoreapp3.1\SQS_producer.AssemblyInfo.cs
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_producer\bin\Debug\netcoreapp3.1\SQS_producer.deps.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_producer\bin\Debug\netcoreapp3.1\SQS_producer.runtimeconfig.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_producer\bin\Debug\netcoreapp3.1\SQS_producer.runtimeconfig.dev.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_producer\bin\Debug\netcoreapp3.1\SQS_producer.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_producer\bin\Debug\netcoreapp3.1\SQS_producer.pdb
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_producer\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_producer\bin\Debug\netcoreapp3.1\AWSSDK.SQS.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_producer\obj\Debug\netcoreapp3.1\SQS_producer.csproj.CopyComplete
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_producer\obj\Debug\netcoreapp3.1\SQS_producer.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\SQS_producer\obj\Debug\netcoreapp3.1\SQS_producer.pdb

@@ -1,0 +1,13 @@
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_producer\bin\Debug\netcoreapp3.1\RabbitMQ_producer.exe
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_producer\obj\Debug\netcoreapp3.1\RabbitMQ_producer.AssemblyInfoInputs.cache
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_producer\obj\Debug\netcoreapp3.1\RabbitMQ_producer.AssemblyInfo.cs
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_producer\bin\Debug\netcoreapp3.1\RabbitMQ_producer.deps.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_producer\bin\Debug\netcoreapp3.1\RabbitMQ_producer.runtimeconfig.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_producer\bin\Debug\netcoreapp3.1\RabbitMQ_producer.runtimeconfig.dev.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_producer\bin\Debug\netcoreapp3.1\RabbitMQ_producer.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_producer\bin\Debug\netcoreapp3.1\RabbitMQ_producer.pdb
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_producer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_producer\obj\Debug\netcoreapp3.1\RabbitMQ_producer.csproj.CopyComplete
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_producer\obj\Debug\netcoreapp3.1\RabbitMQ_producer.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_producer\obj\Debug\netcoreapp3.1\RabbitMQ_producer.pdb
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_producer\obj\Debug\netcoreapp3.1\RabbitMQ_producer.csprojAssemblyReference.cache

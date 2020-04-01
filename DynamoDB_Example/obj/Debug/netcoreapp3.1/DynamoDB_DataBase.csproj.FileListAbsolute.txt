@@ -1,0 +1,14 @@
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\DynamoDB_Example\bin\Debug\netcoreapp3.1\DynamoDB_DataBase.exe
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\DynamoDB_Example\obj\Debug\netcoreapp3.1\DynamoDB_DataBase.csprojAssemblyReference.cache
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\DynamoDB_Example\obj\Debug\netcoreapp3.1\DynamoDB_DataBase.AssemblyInfoInputs.cache
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\DynamoDB_Example\obj\Debug\netcoreapp3.1\DynamoDB_DataBase.AssemblyInfo.cs
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\DynamoDB_Example\bin\Debug\netcoreapp3.1\DynamoDB_DataBase.deps.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\DynamoDB_Example\bin\Debug\netcoreapp3.1\DynamoDB_DataBase.runtimeconfig.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\DynamoDB_Example\bin\Debug\netcoreapp3.1\DynamoDB_DataBase.runtimeconfig.dev.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\DynamoDB_Example\bin\Debug\netcoreapp3.1\DynamoDB_DataBase.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\DynamoDB_Example\bin\Debug\netcoreapp3.1\DynamoDB_DataBase.pdb
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\DynamoDB_Example\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\DynamoDB_Example\bin\Debug\netcoreapp3.1\AWSSDK.DynamoDBv2.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\DynamoDB_Example\obj\Debug\netcoreapp3.1\DynamoDB_DataBase.csproj.CopyComplete
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\DynamoDB_Example\obj\Debug\netcoreapp3.1\DynamoDB_DataBase.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\DynamoDB_Example\obj\Debug\netcoreapp3.1\DynamoDB_DataBase.pdb

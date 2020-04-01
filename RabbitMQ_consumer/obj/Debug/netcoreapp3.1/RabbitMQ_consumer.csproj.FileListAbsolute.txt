@@ -1,0 +1,13 @@
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_consumer\bin\Debug\netcoreapp3.1\RabbitMQ_consumer.exe
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_consumer\obj\Debug\netcoreapp3.1\RabbitMQ_consumer.csprojAssemblyReference.cache
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_consumer\obj\Debug\netcoreapp3.1\RabbitMQ_consumer.AssemblyInfoInputs.cache
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_consumer\obj\Debug\netcoreapp3.1\RabbitMQ_consumer.AssemblyInfo.cs
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_consumer\obj\Debug\netcoreapp3.1\RabbitMQ_consumer.csproj.CopyComplete
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_consumer\obj\Debug\netcoreapp3.1\RabbitMQ_consumer.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_consumer\obj\Debug\netcoreapp3.1\RabbitMQ_consumer.pdb
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_consumer\bin\Debug\netcoreapp3.1\RabbitMQ_consumer.deps.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_consumer\bin\Debug\netcoreapp3.1\RabbitMQ_consumer.runtimeconfig.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_consumer\bin\Debug\netcoreapp3.1\RabbitMQ_consumer.runtimeconfig.dev.json
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_consumer\bin\Debug\netcoreapp3.1\RabbitMQ_consumer.dll
+C:\Users\Wesley\Desktop\Estudo\Projects_DotNetCore_AWS_AZURE_DataBases\RabbitMQ_consumer\bin\Debug\netcoreapp3.1\RabbitMQ_consumer.pdb
